@@ -1,6 +1,0 @@
-alive_progress  -i https://pypi.tuna.tsinghua.edu.cn/simple some-package
-aiohttp  -i https://pypi.tuna.tsinghua.edu.cn/simple some-package
-bs4  -i https://pypi.tuna.tsinghua.edu.cn/simple some-package
-requests  -i https://pypi.tuna.tsinghua.edu.cn/simple some-package
-netaddr  -i https://pypi.tuna.tsinghua.edu.cn/simple some-package
-colorama  -i https://pypi.tuna.tsinghua.edu.cn/simple some-package
