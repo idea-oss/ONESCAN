@@ -1,4 +1,5 @@
 # ONESCAN
+修改了C段的request同步库位aiohttp异步库速度更快
 轻量扫描器
 使用参考文章
 https://blog.csdn.net/qq_46804551/article/details/113824061
